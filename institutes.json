@@ -1223,154 +1223,154 @@
     {
       "city": "Dundee",
       "institute": "University of Dundee",
-      "latitude": 56.462,
-      "longitude": -2.9707
+      "latitude": 56.4578,
+      "longitude": -2.9752
     },
     {
       "city": "Cranfield",
       "institute": "Cranfield University",
-      "latitude": 52.074,
-      "longitude": -0.6282
+      "latitude": 52.0739,
+      "longitude": -0.6271
     },
     {
       "city": "London",
       "institute": "Imperial College London",
-      "latitude": 51.5074,
-      "longitude": -0.1278
+      "latitude": 51.4988,
+      "longitude": -0.1749
     },
     {
       "city": "Bristol",
       "institute": "University of Bristol",
-      "latitude": 51.4545,
-      "longitude": -2.5879
+      "latitude": 51.4586,
+      "longitude": -2.6027
     },
     {
       "city": "Uxbridge",
       "institute": "Brunel University",
-      "latitude": 51.5461,
-      "longitude": -0.474
+      "latitude": 51.5329,
+      "longitude": -0.4731
     },
     {
       "city": "Bristol",
       "institute": "University of the West of England",
-      "latitude": 51.4545,
-      "longitude": -2.5879
+      "latitude": 51.5002,
+      "longitude": -2.5483
     },
     {
       "city": "Bath",
       "institute": "University of Bath",
-      "latitude": 51.3781,
-      "longitude": -2.359
+      "latitude": 51.3788,
+      "longitude": -2.3263
     },
     {
       "city": "Didcot",
       "institute": "Rutherford Appleton Laboratory",
-      "latitude": 51.5734,
-      "longitude": -1.3154
+      "latitude": 51.5736,
+      "longitude": -1.3149
     }
   ],
   "USA": [
     {
       "city": "Charlottesville",
       "institute": "University of Virginia",
-      "latitude": 38.0293,
-      "longitude": -78.4867
+      "latitude": 38.0336,
+      "longitude": -78.5080
     },
     {
       "city": "Davis",
       "institute": "University of California, Davis",
-      "latitude": 38.5449,
-      "longitude": -121.7405
+      "latitude": 38.5382,
+      "longitude": -121.7617
     },
     {
       "city": "Tallahassee",
       "institute": "Florida State University",
-      "latitude": 30.4383,
-      "longitude": -84.2807
+      "latitude": 30.4420,
+      "longitude": -84.2985
     },
     {
       "city": "Gainesville",
       "institute": "University of Florida",
-      "latitude": 29.6516,
-      "longitude": -82.3248
+      "latitude": 29.6499,
+      "longitude": -82.3486
     },
     {
       "city": "Waco",
       "institute": "Baylor University",
-      "latitude": 31.5497,
-      "longitude": -97.1143
+      "latitude": 31.5498,
+      "longitude": -97.1139
     },
     {
       "city": "Los Angeles",
       "institute": "University of California, Los Angeles",
-      "latitude": 34.0522,
-      "longitude": -118.2437
+      "latitude": 34.0689,
+      "longitude": -118.4452
     },
     {
       "city": "Tuscaloosa",
       "institute": "University of Alabama",
-      "latitude": 33.209,
-      "longitude": -87.5692
+      "latitude": 33.2119,
+      "longitude": -87.5456
     },
     {
       "city": "Melbourne",
       "institute": "Florida Institute of Technology",
-      "latitude": 28.0836,
-      "longitude": -80.6081
+      "latitude": 28.0642,
+      "longitude": -80.6237
     },
     {
       "city": "West Lafayette",
       "institute": "Purdue University",
-      "latitude": 40.4259,
-      "longitude": -86.9081
+      "latitude": 40.4237,
+      "longitude": -86.9212
     },
     {
       "city": "Nashville",
       "institute": "Vanderbilt University",
-      "latitude": 36.1627,
-      "longitude": -86.7816
+      "latitude": 36.1440,
+      "longitude": -86.8027
     },
     {
       "city": "Detroit",
       "institute": "Wayne State University",
-      "latitude": 42.3314,
-      "longitude": -83.0458
+      "latitude": 42.3592,
+      "longitude": -83.0700
     },
     {
       "city": "Lincoln",
       "institute": "University of Nebraska-Lincoln",
-      "latitude": 40.8136,
-      "longitude": -96.7026
+      "latitude": 40.8177,
+      "longitude": -96.7005
     },
     {
       "city": "Washington",
       "institute": "The Catholic University of America",
-      "latitude": 38.9072,
-      "longitude": -77.0369
+      "latitude": 38.9399,
+      "longitude": -76.9990
     },
     {
       "city": "Madison",
       "institute": "University of Wisconsin-Madison",
-      "latitude": 43.0731,
-      "longitude": -89.4012
+      "latitude": 43.0766,
+      "longitude": -89.4125
     },
     {
       "city": "Madison",
       "institute": "University of Wisconsin, Center for High Throughput Computing",
-      "latitude": 43.0731,
-      "longitude": -89.4012
+      "latitude": 43.0714,
+      "longitude": -89.4062
     },
     {
       "city": "La Jolla",
       "institute": "University of California, San Diego",
-      "latitude": 32.8801,
-      "longitude": -117.234
+      "latitude": 32.8799,
+      "longitude": -117.2370
     },
     {
       "city": "Santa Barbara",
       "institute": "University of California, Santa Barbara",
-      "latitude": 34.4208,
-      "longitude": -119.6982
+      "latitude": 34.4130,
+      "longitude": -119.8489
     },
     {
       "city": "Riverside",
@@ -1382,31 +1382,31 @@
       "city": "Lubbock",
       "institute": "Texas Tech University",
       "latitude": 33.5843,
-      "longitude": -101.8552
+      "longitude": -101.8783
     },
     {
       "city": "College Station",
       "institute": "Texas A&M University",
-      "latitude": 30.628,
-      "longitude": -96.3344
+      "latitude": 30.6187,
+      "longitude": -96.3365
     },
     {
       "city": "Knoxville",
       "institute": "University of Tennessee",
-      "latitude": 35.9606,
-      "longitude": -83.9207
+      "latitude": 35.9544,
+      "longitude": -83.9250
     },
     {
       "city": "Hammond",
       "institute": "Purdue University Northwest",
-      "latitude": 41.5834,
-      "longitude": -87.475
+      "latitude": 41.5870,
+      "longitude": -87.4710
     },
     {
       "city": "Mayaguez",
       "institute": "University of Puerto Rico",
-      "latitude": 18.2013,
-      "longitude": -67.1452
+      "latitude": 18.2101,
+      "longitude": -67.1407
     },
     {
       "city": "Princeton",
@@ -1417,164 +1417,164 @@
     {
       "city": "Boulder",
       "institute": "University of Colorado Boulder",
-      "latitude": 40.015,
-      "longitude": -105.2705
+      "latitude": 40.0074,
+      "longitude": -105.2659
     },
     {
       "city": "Livermore",
       "institute": "Lawrence Livermore National Laboratory",
-      "latitude": 37.6819,
-      "longitude": -121.768
+      "latitude": 37.6987,
+      "longitude": -121.7066
     },
     {
       "city": "Ithaca",
       "institute": "Cornell University",
-      "latitude": 42.4406,
-      "longitude": -76.4965
+      "latitude": 42.4534,
+      "longitude": -76.4735
     },
     {
       "city": "Iowa City",
       "institute": "University of Iowa",
       "latitude": 41.6611,
-      "longitude": -91.5302
+      "longitude": -91.5362
     },
     {
       "city": "Columbus",
       "institute": "The Ohio State University",
-      "latitude": 39.9612,
-      "longitude": -82.9988
+      "latitude": 40.0067,
+      "longitude": -83.0149
     },
     {
       "city": "Notre Dame",
       "institute": "University of Notre Dame",
-      "latitude": 41.6992,
-      "longitude": -86.2353
+      "latitude": 41.7030,
+      "longitude": -86.2390
     },
     {
       "city": "Evanston",
       "institute": "Northwestern University",
-      "latitude": 42.0411,
-      "longitude": -87.69
+      "latitude": 42.0565,
+      "longitude": -87.6753
     },
     {
       "city": "DeKalb",
       "institute": "Northern Illinois University",
-      "latitude": 41.9324,
-      "longitude": -88.7537
+      "latitude": 41.9332,
+      "longitude": -88.7776
     },
     {
       "city": "New York",
       "institute": "Simons Foundation",
-      "latitude": 40.7128,
-      "longitude": -74.006
+      "latitude": 40.7399,
+      "longitude": -73.9910
     },
     {
       "city": "Cambridge",
       "institute": "Massachusetts Institute of Technology",
-      "latitude": 42.3601,
-      "longitude": -71.0942
+      "latitude": 42.3598,
+      "longitude": -71.0921
     },
     {
       "city": "Oxford",
       "institute": "University of Mississippi",
-      "latitude": 34.3665,
-      "longitude": -89.5192
+      "latitude": 34.3647,
+      "longitude": -89.5384
     },
     {
       "city": "Minneapolis",
       "institute": "University of Minnesota",
-      "latitude": 44.9778,
-      "longitude": -93.265
+      "latitude": 44.9748,
+      "longitude": -93.2354
     },
     {
       "city": "Houston",
       "institute": "Rice University",
-      "latitude": 29.7604,
-      "longitude": -95.3698
+      "latitude": 29.7174,
+      "longitude": -95.4018
     },
     {
       "city": "Fairfield",
       "institute": "Fairfield University",
-      "latitude": 41.1412,
-      "longitude": -73.258
+      "latitude": 41.1592,
+      "longitude": -73.2582
     },
     {
       "city": "Rochester",
       "institute": "University of Rochester",
-      "latitude": 43.1566,
-      "longitude": -77.6088
+      "latitude": 43.1284,
+      "longitude": -77.6281
     },
     {
       "city": "Baltimore",
       "institute": "Johns Hopkins University",
-      "latitude": 39.2904,
-      "longitude": -76.6122
+      "latitude": 39.3293,
+      "longitude": -76.6205
     },
     {
       "city": "Manhattan",
       "institute": "Kansas State University",
-      "latitude": 39.1836,
-      "longitude": -96.5717
+      "latitude": 39.1915,
+      "longitude": -96.5809
     },
     {
       "city": "Lawrence",
       "institute": "University of Kansas",
-      "latitude": 38.9717,
-      "longitude": -95.2353
+      "latitude": 38.9583,
+      "longitude": -95.2478
     },
     {
       "city": "Chicago",
       "institute": "University of Illinois Chicago",
-      "latitude": 41.8781,
-      "longitude": -87.6298
+      "latitude": 41.8745,
+      "longitude": -87.6710
     },
     {
       "city": "Buffalo",
       "institute": "State University of New York at Buffalo",
-      "latitude": 42.8864,
-      "longitude": -78.8784
+      "latitude": 43.0008,
+      "longitude": -78.7870
     },
     {
       "city": "St. Paul",
       "institute": "Bethel University",
-      "latitude": 44.9537,
-      "longitude": -93.09
+      "latitude": 45.0579,
+      "longitude": -93.1609
     },
     {
       "city": "Boston",
       "institute": "Boston University",
-      "latitude": 42.3601,
-      "longitude": -71.0589
+      "latitude": 42.3496,
+      "longitude": -71.0997
     },
     {
       "city": "Providence",
       "institute": "Brown University",
-      "latitude": 41.824,
-      "longitude": -71.4128
+      "latitude": 41.8262,
+      "longitude": -71.4025
     },
     {
       "city": "Miami",
       "institute": "Florida International University",
-      "latitude": 25.7617,
-      "longitude": -80.1918
+      "latitude": 25.7573,
+      "longitude": -80.3737
     },
     {
       "city": "Pasadena",
       "institute": "California Institute of Technology",
-      "latitude": 34.1478,
-      "longitude": -118.1445
+      "latitude": 34.1377,
+      "longitude": -118.1253
     },
     {
       "city": "Pittsburgh",
       "institute": "Carnegie Mellon University",
-      "latitude": 40.4406,
-      "longitude": -79.9959
+      "latitude": 40.4433,
+      "longitude": -79.9436
     },
     {
       "city": "Boston",
       "institute": "Northeastern University",
-      "latitude": 42.3601,
-      "longitude": -71.0589
+      "latitude": 42.3398,
+      "longitude": -71.0899
     },
     {
       "city": "Piscataway",
@@ -1585,17 +1585,17 @@
     {
       "city": "Batavia",
       "institute": "Fermi National Accelerator Laboratory",
-      "latitude": 41.8419,
-      "longitude": -88.2539
+      "latitude": 41.8618,
+      "longitude": -88.2620
     },
     {
       "city": "College Park",
       "institute": "University of Maryland",
-      "latitude": 38.9897,
-      "longitude": -76.9378
+      "latitude": 38.9861,
+      "longitude": -76.9426
     }
   ],
-  "Uzbekistan": [
+    "Uzbekistan": [
     {
       "city": "Tashkent",
       "institute": "Institute of Nuclear Physics",
