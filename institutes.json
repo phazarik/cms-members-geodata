@@ -493,87 +493,87 @@
       "longitude": 19.0402
     }
   ],
-  "India": [
+"India": [
     {
       "city": "Mumbai",
       "institute": "Tata Institute of Fundamental Research-B",
-      "latitude": 19.076,
-      "longitude": 72.8777
+      "latitude": 18.9071,
+      "longitude": 72.8048
     },
     {
       "city": "Mohali",
       "institute": "Indian Institute of Science Education and Research Mohali",
-      "latitude": 30.667,
-      "longitude": 76.7294
+      "latitude": 30.6639,
+      "longitude": 76.7273
     },
     {
       "city": "Hyderabad",
       "institute": "Indian Institute of Technology Hyderabad",
-      "latitude": 17.385,
-      "longitude": 78.4867
+      "latitude": 17.5950,
+      "longitude": 78.1230
     },
     {
       "city": "Hyderabad",
       "institute": "University of Hyderabad",
-      "latitude": 17.385,
-      "longitude": 78.4867
+      "latitude": 17.4559,
+      "longitude": 78.3334
     },
     {
       "city": "Mumbai",
       "institute": "Tata Institute of Fundamental Research-A",
-      "latitude": 19.076,
-      "longitude": 72.8777
+      "latitude": 18.9071,
+      "longitude": 72.8048
     },
     {
       "city": "Chandigarh",
       "institute": "Panjab University",
-      "latitude": 30.7333,
-      "longitude": 76.7794
+      "latitude": 30.7596,
+      "longitude": 76.7751
     },
     {
       "city": "Delhi",
       "institute": "University of Delhi",
-      "latitude": 28.7041,
-      "longitude": 77.1025
+      "latitude": 28.6889,
+      "longitude": 77.2100
     },
     {
       "city": "Odisha",
       "institute": "National Institute of Science Education and Research",
-      "latitude": 20.2961,
-      "longitude": 85.8245
+      "latitude": 20.1741,
+      "longitude": 85.6850
     },
     {
       "city": "Pune",
       "institute": "Indian Institute of Science Education and Research Pune",
-      "latitude": 18.5204,
-      "longitude": 73.8567
+      "latitude": 18.5435,
+      "longitude": 73.8076
     },
     {
       "city": "Kolkata",
       "institute": "Saha Institute of Nuclear Physics",
-      "latitude": 22.5726,
-      "longitude": 88.3639
+      "latitude": 22.6015,
+      "longitude": 88.3820
     },
     {
       "city": "Mandi",
       "institute": "Indian Institute of Technology Mandi",
-      "latitude": 31.7024,
-      "longitude": 76.9905
+      "latitude": 31.7753,
+      "longitude": 76.9960
     },
     {
       "city": "Chennai",
       "institute": "Indian Institute of Technology Madras",
-      "latitude": 13.0827,
-      "longitude": 80.2707
+      "latitude": 12.9915,
+      "longitude": 80.2336
     },
     {
       "city": "Kanpur",
       "institute": "Indian Institute of Technology Kanpur",
-      "latitude": 26.4499,
-      "longitude": 80.3319
+      "latitude": 26.5123,
+      "longitude": 80.2329
     }
-  ],
-  "Iran": [
+],
+"Iran": [
     {
       "city": "Isfahan",
       "institute": "Isfahan University of Technology",
