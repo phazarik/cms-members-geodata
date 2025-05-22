@@ -11,7 +11,7 @@ The project collects latitude and longitude coordinates of CMS member institutes
 This project is built using Jupyter Notebooks and the following Python libraries are used, all installable via `conda-forge`.
 
 ![Python 3.10.9](https://img.shields.io/badge/Python-3.10.9-blue?logo=python)  
-![Jupyter 1.1.1](https://img.shields.io/badge/Jupyter-1.1.1-orange?logo=jupyter)
+![Jupyter 1.1.1](https://img.shields.io/badge/Jupyter-1.1.1-orange?logo=jupyter)  
 ![pandas 2.2.2](https://img.shields.io/badge/pandas-2.2.2-lightgrey?logo=pandas)  
 ![numpy 1.26.4](https://img.shields.io/badge/numpy-1.26.4-lightgrey?logo=numpy)  
 ![geopandas 1.0.1](https://img.shields.io/badge/geopandas-1.0.1-lightgrey)  
