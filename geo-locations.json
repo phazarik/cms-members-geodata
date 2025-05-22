@@ -1,0 +1,1451 @@
+{
+  "AACHEN-1": {
+    "latitude": 50.7781,
+    "longitude": 6.0794,
+    "institute_name": "RWTH Aachen University, I. Physikalisches Institut",
+    "country": "Germany",
+    "town": "Aachen"
+  },
+  "AACHEN-3A": {
+    "latitude": 50.7781,
+    "longitude": 6.0794,
+    "institute_name": "RWTH Aachen University, III. Physikalisches Institut A",
+    "country": "Germany",
+    "town": "Aachen"
+  },
+  "AACHEN-3B": {
+    "latitude": 50.7781,
+    "longitude": 6.0794,
+    "institute_name": "RWTH Aachen University, III. Physikalisches Institut B",
+    "country": "Germany",
+    "town": "Aachen"
+  },
+  "ADANA-CUKUROVA": {
+    "latitude": 37.0584,
+    "longitude": 35.3567,
+    "institute_name": "\u00c7ukurova University",
+    "country": "Turkey",
+    "town": "Adana"
+  },
+  "ALABAMA-UNIV": {
+    "latitude": 33.214,
+    "longitude": -87.5391,
+    "institute_name": "The University of Alabama",
+    "country": "United States",
+    "town": "Tuscaloosa"
+  },
+  "ANKARA-METU": {
+    "latitude": 39.8916,
+    "longitude": 32.7847,
+    "institute_name": "Middle East Technical University, Physics Department",
+    "country": "Turkey",
+    "town": "Ankara"
+  },
+  "ANTIOQUIA": {
+    "latitude": 6.2678,
+    "longitude": -75.5681,
+    "institute_name": "Universidad de Antioquia",
+    "country": "Colombia",
+    "town": "Medellin"
+  },
+  "ANTWERPEN": {
+    "latitude": 51.2228,
+    "longitude": 4.4097,
+    "institute_name": "Universiteit Antwerpen",
+    "country": "Belgium",
+    "town": "Antwerpen"
+  },
+  "ASRT-ENHEP": {
+    "latitude": 30.0465,
+    "longitude": 31.2357,
+    "institute_name": "Academy of Scientific Research and Technology of the Arab Republic of Egypt, Egyptian Network of High Energy Physics",
+    "country": "Egypt",
+    "town": "Cairo"
+  },
+  "ATHENS": {
+    "latitude": 37.975,
+    "longitude": 23.736,
+    "institute_name": "National and Kapodistrian University of Athens",
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "ATHENS-NTUA": {
+    "latitude": 37.9886,
+    "longitude": 23.7314,
+    "institute_name": "National Technical University of Athens",
+    "country": "Greece",
+    "town": "Athens"
+  },
+  "ATOMKI": {
+    "latitude": 47.5316,
+    "longitude": 21.6267,
+    "institute_name": "HUN-REN ATOMKI - Institute of Nuclear Research",
+    "country": "Hungary",
+    "town": "Debrecen"
+  },
+  "AUCKLAND": {
+    "latitude": -36.8485,
+    "longitude": 174.7633,
+    "institute_name": "University of Auckland",
+    "country": "New Zealand",
+    "town": "Auckland"
+  },
+  "BANGKOK": {
+    "latitude": 13.7367,
+    "longitude": 100.5321,
+    "institute_name": "High Energy Physics Research Unit, Department of Physics,  Faculty of Science,  Chulalongkorn University",
+    "country": "Thailand",
+    "town": "Bangkok"
+  },
+  "BARI": {
+    "latitude": 41.1121,
+    "longitude": 16.8798,
+    "institute_name": "INFN Sezione di Bari (a); Universit\u00e0 di Bari (b); Politecnico di Bari (c)",
+    "country": "Italy",
+    "town": "Bari"
+  },
+  "BAYLOR-UNIV": {
+    "latitude": 31.5488,
+    "longitude": -97.1131,
+    "institute_name": "Baylor University",
+    "country": "United States",
+    "town": "Waco"
+  },
+  "BEIJING-BUAA": {
+    "latitude": 39.9812,
+    "longitude": 116.3473,
+    "institute_name": "Beihang University",
+    "country": "China",
+    "town": "Beijing"
+  },
+  "BEIJING-IHEP": {
+    "latitude": 39.9076,
+    "longitude": 116.3915,
+    "institute_name": "Institute of High Energy Physics",
+    "country": "China",
+    "town": "Beijing"
+  },
+  "BEIJING-THU": {
+    "latitude": 39.9997,
+    "longitude": 116.3264,
+    "institute_name": "Department of Physics, Tsinghua University",
+    "country": "China",
+    "town": "Beijing"
+  },
+  "BELGRADE": {
+    "latitude": 44.8184,
+    "longitude": 20.4571,
+    "institute_name": "Faculty of Physics, University of Belgrade",
+    "country": "Serbia",
+    "town": "Belgrade"
+  },
+  "BOGAZICI": {
+    "latitude": 41.085,
+    "longitude": 29.0499,
+    "institute_name": "Bogazici University",
+    "country": "Turkey",
+    "town": "Istanbul"
+  },
+  "BOLOGNA": {
+    "latitude": 44.4967,
+    "longitude": 11.3562,
+    "institute_name": "INFN Sezione di Bologna (a); Universit\u00e0 di Bologna (b)",
+    "country": "Italy",
+    "town": "Bologna"
+  },
+  "BOSTON-UNIV": {
+    "latitude": 42.3505,
+    "longitude": -71.1054,
+    "institute_name": "Boston University",
+    "country": "United States",
+    "town": "Boston"
+  },
+  "BRISTOL": {
+    "latitude": 51.4587,
+    "longitude": -2.6023,
+    "institute_name": "University of Bristol",
+    "country": "United Kingdom",
+    "town": "Bristol"
+  },
+  "BROWN-UNIV": {
+    "latitude": 41.8268,
+    "longitude": -71.4025,
+    "institute_name": "Brown University",
+    "country": "United States",
+    "town": "Providence"
+  },
+  "BRUNEL": {
+    "latitude": 51.5328,
+    "longitude": -0.4731,
+    "institute_name": "Brunel University",
+    "country": "United Kingdom",
+    "town": "Uxbridge"
+  },
+  "BRUSSEL-VUB": {
+    "latitude": 50.8225,
+    "longitude": 4.3921,
+    "institute_name": "Vrije Universiteit Brussel",
+    "country": "Belgium",
+    "town": "Brussel"
+  },
+  "BRUXELLES-ULB": {
+    "latitude": 50.8136,
+    "longitude": 4.3821,
+    "institute_name": "Universit\u00e9 Libre de Bruxelles",
+    "country": "Belgium",
+    "town": "Bruxelles"
+  },
+  "BUDAPEST": {
+    "latitude": 47.4748,
+    "longitude": 19.05,
+    "institute_name": "HUN-REN Wigner Research Centre for Physics",
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "BUDAPEST-ELU": {
+    "latitude": 47.4733,
+    "longitude": 19.0601,
+    "institute_name": "MTA-ELTE Lend\u00fclet CMS Particle and Nuclear Physics Group, E\u00f6tv\u00f6s Lor\u00e1nd University",
+    "country": "Hungary",
+    "town": "Budapest"
+  },
+  "CALTECH": {
+    "latitude": 34.1377,
+    "longitude": -118.1253,
+    "institute_name": "California Institute of Technology",
+    "country": "United States",
+    "town": "Pasadena"
+  },
+  "CANTERBURY": {
+    "latitude": -43.5235,
+    "longitude": 172.5824,
+    "institute_name": "University of Canterbury",
+    "country": "New Zealand",
+    "town": "Christchurch"
+  },
+  "CARNEGIE-MELLON": {
+    "latitude": 40.4417,
+    "longitude": -79.9435,
+    "institute_name": "Carnegie Mellon University",
+    "country": "United States",
+    "town": "Pittsburgh"
+  },
+  "CATANIA": {
+    "latitude": 37.5259,
+    "longitude": 15.0732,
+    "institute_name": "INFN Sezione di Catania (a); Universit\u00e0 di Catania (b)",
+    "country": "Italy",
+    "town": "Catania"
+  },
+  "CERN": {
+    "latitude": 46.233,
+    "longitude": 6.0557,
+    "institute_name": "CERN, European Organization for Nuclear Research",
+    "country": "Switzerland",
+    "town": "Geneva"
+  },
+  "CHANDIGARH": {
+    "latitude": 30.7597,
+    "longitude": 76.775,
+    "institute_name": "Panjab University",
+    "country": "India",
+    "town": "Chandigarh"
+  },
+  "CHARLES-UNIV": {
+    "latitude": 50.0911,
+    "longitude": 14.439,
+    "institute_name": "Charles University",
+    "country": "Czechia",
+    "town": "Prague"
+  },
+  "CHICAGO": {
+    "latitude": 41.7886,
+    "longitude": -87.5987,
+    "institute_name": "University of Illinois Chicago",
+    "country": "United States",
+    "town": "Chicago"
+  },
+  "CHONNAM": {
+    "latitude": 35.176,
+    "longitude": 126.9052,
+    "institute_name": "Chonnam National University, Institute for Universe and Elementary Particles",
+    "country": "Korea, Republic of",
+    "town": "Kwangju"
+  },
+  "CHUNGLI-NCU": {
+    "latitude": 24.9689,
+    "longitude": 121.1942,
+    "institute_name": "National Central University",
+    "country": "Taiwan, Province of China",
+    "town": "Chung-Li"
+  },
+  "COLOMBO": {
+    "latitude": 6.9271,
+    "longitude": 79.8612,
+    "institute_name": "University of Colombo",
+    "country": "Sri Lanka",
+    "town": "Colombo"
+  },
+  "COLORADO": {
+    "latitude": 40.0076,
+    "longitude": -105.2659,
+    "institute_name": "University of Colorado Boulder",
+    "country": "United States",
+    "town": "Boulder"
+  },
+  "CORNELL": {
+    "latitude": 42.449,
+    "longitude": -76.4786,
+    "institute_name": "Cornell University",
+    "country": "United States",
+    "town": "Ithaca"
+  },
+  "DEBRECEN-UD": {
+    "latitude": 47.5536,
+    "longitude": 21.6214,
+    "institute_name": "Faculty of Informatics, University of Debrecen, Debrecen, Hungary",
+    "country": "Hungary",
+    "town": "Debrecen"
+  },
+  "DELHI-UNIV": {
+    "latitude": 28.685,
+    "longitude": 77.21,
+    "institute_name": "University of Delhi",
+    "country": "India",
+    "town": "Delhi"
+  },
+  "DEMOKRITOS": {
+    "latitude": 37.9994,
+    "longitude": 23.8161,
+    "institute_name": "Institute of Nuclear and Particle Physics (INPP), NCSR Demokritos",
+    "country": "Greece",
+    "town": "Aghia Paraskevi"
+  },
+  "DESY": {
+    "latitude": 53.575,
+    "longitude": 9.8798,
+    "institute_name": "Deutsches Elektronen-Synchrotron",
+    "country": "Germany",
+    "town": "Hamburg"
+  },
+  "DUBLIN-UCD": {
+    "latitude": 53.3092,
+    "longitude": -6.2236,
+    "institute_name": "University College Dublin",
+    "country": "Ireland",
+    "town": "Dublin"
+  },
+  "DUBNA": {
+    "latitude": 56.7411,
+    "longitude": 37.1939,
+    "institute_name": "Joint Institute for Nuclear Research",
+    "country": "Russian Federation",
+    "town": "Dubna"
+  },
+  "FAIRFIELD": {
+    "latitude": 41.159,
+    "longitude": -73.2581,
+    "institute_name": "Fairfield University",
+    "country": "United States",
+    "town": "Fairfield"
+  },
+  "FAYOUM-CHEP-FU": {
+    "latitude": 29.3099,
+    "longitude": 30.8418,
+    "institute_name": "Center for High Energy Physics (CHEP-FU), Fayoum University",
+    "country": "Egypt",
+    "town": "El-Fayoum"
+  },
+  "FERMILAB": {
+    "latitude": 41.8319,
+    "longitude": -88.2572,
+    "institute_name": "Fermi National Accelerator Laboratory",
+    "country": "United States",
+    "town": "Batavia"
+  },
+  "FIRENZE": {
+    "latitude": 43.819,
+    "longitude": 11.1941,
+    "institute_name": "INFN Sezione di Firenze (a); Universit\u00e0 di Firenze (b)",
+    "country": "Italy",
+    "town": "Firenze"
+  },
+  "FLORIDA-FIU": {
+    "latitude": 25.7573,
+    "longitude": -80.3737,
+    "institute_name": "Florida International University",
+    "country": "United States",
+    "town": "Miami"
+  },
+  "FLORIDA-STATE": {
+    "latitude": 30.442,
+    "longitude": -84.2985,
+    "institute_name": "Florida State University",
+    "country": "United States",
+    "town": "Tallahassee"
+  },
+  "FLORIDA-TECH": {
+    "latitude": 28.0647,
+    "longitude": -80.6234,
+    "institute_name": "Florida Institute of Technology",
+    "country": "United States",
+    "town": "Melbourne"
+  },
+  "FLORIDA-UNIV": {
+    "latitude": 29.6499,
+    "longitude": -82.3486,
+    "institute_name": "University of Florida",
+    "country": "United States",
+    "town": "Gainesville"
+  },
+  "FRASCATI": {
+    "latitude": 41.8042,
+    "longitude": 12.6746,
+    "institute_name": "INFN Laboratori Nazionali di Frascati",
+    "country": "Italy",
+    "town": "Frascati"
+  },
+  "GANGNEUNG-GWNU": {
+    "latitude": 37.7701,
+    "longitude": 128.87,
+    "institute_name": "Department of Mathematics and Physics - Gangneung-Wonju National University",
+    "country": "Korea, Republic of",
+    "town": "Gangneung"
+  },
+  "GENOVA": {
+    "latitude": 44.4056,
+    "longitude": 8.9593,
+    "institute_name": "INFN Sezione di Genova (a); Universit\u00e0 di Genova (b)",
+    "country": "Italy",
+    "town": "Genova"
+  },
+  "GHENT": {
+    "latitude": 51.0231,
+    "longitude": 3.7107,
+    "institute_name": "Ghent University",
+    "country": "Belgium",
+    "town": "Ghent"
+  },
+  "GORLITZ-CASUS": {
+    "latitude": 51.1527,
+    "longitude": 14.9891,
+    "institute_name": "CASUS - Center for Advanced Systems Understanding",
+    "country": "Germany",
+    "town": "G\u00f6rlitz"
+  },
+  "GUANGZHOU-SCNU": {
+    "latitude": 23.1417,
+    "longitude": 113.3497,
+    "institute_name": "Guangdong Provincial Key Laboratory of Nuclear Science and Guangdong-Hong Kong Joint Laboratory of Quantum Matter, South China Normal University",
+    "country": "China",
+    "town": "Guangzhou"
+  },
+  "GUANGZHOU-SYSU": {
+    "latitude": 23.0932,
+    "longitude": 113.292,
+    "institute_name": "Sun Yat-Sen University",
+    "country": "China",
+    "town": "Guangzhou"
+  },
+  "GYONGYOS-UNIV": {
+    "latitude": 47.7808,
+    "longitude": 19.9484,
+    "institute_name": "Karoly Robert Campus, MATE Institute of Technology",
+    "country": "Hungary",
+    "town": "Gyongyos"
+  },
+  "HAMBURG-UNIV": {
+    "latitude": 53.563,
+    "longitude": 9.9752,
+    "institute_name": "University of Hamburg",
+    "country": "Germany",
+    "town": "Hamburg"
+  },
+  "HEFEI-USTC": {
+    "latitude": 31.894,
+    "longitude": 117.2506,
+    "institute_name": "University of Science and Technology of China",
+    "country": "China",
+    "town": "Hefei"
+  },
+  "HELSINKI-HIP": {
+    "latitude": 60.2055,
+    "longitude": 24.9643,
+    "institute_name": "Helsinki Institute of Physics",
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "HELSINKI-UNIV": {
+    "latitude": 60.2055,
+    "longitude": 24.9643,
+    "institute_name": "Department of Physics, University of Helsinki",
+    "country": "Finland",
+    "town": "Helsinki"
+  },
+  "HEPHY": {
+    "latitude": 48.1951,
+    "longitude": 16.3576,
+    "institute_name": "Institut f\u00fcr Hochenergiephysik",
+    "country": "Austria",
+    "town": "Vienna"
+  },
+  "HYDERABAD-IIT": {
+    "latitude": 17.5947,
+    "longitude": 78.1248,
+    "institute_name": "Indian Institute of Technology Hyderabad",
+    "country": "India",
+    "town": "Telangana"
+  },
+  "HYDERABAD-UNIV": {
+    "latitude": 17.455,
+    "longitude": 78.332,
+    "institute_name": "University of Hyderabad",
+    "country": "India",
+    "town": "Hyderabad"
+  },
+  "IIT-KANPUR": {
+    "latitude": 26.5123,
+    "longitude": 80.2329,
+    "institute_name": "Indian Institute of Technology Kanpur",
+    "country": "India",
+    "town": "Kanpur"
+  },
+  "IIT-MADRAS": {
+    "latitude": 12.9917,
+    "longitude": 80.2336,
+    "institute_name": "Indian Institute of Technology Madras",
+    "country": "India",
+    "town": "Madras"
+  },
+  "IIT-MANDI": {
+    "latitude": 31.776,
+    "longitude": 76.996,
+    "institute_name": "Indian Institute of Technology Mandi (IIT-Mandi)",
+    "country": "India",
+    "town": "Himachal Pradesh"
+  },
+  "IOANNINA": {
+    "latitude": 39.62,
+    "longitude": 20.8503,
+    "institute_name": "University of Io\u00e1nnina",
+    "country": "Greece",
+    "town": "Io\u00e1nnina"
+  },
+  "IOWA": {
+    "latitude": 41.6606,
+    "longitude": -91.5365,
+    "institute_name": "The University of Iowa",
+    "country": "United States",
+    "town": "Iowa City"
+  },
+  "IPM": {
+    "latitude": 35.7668,
+    "longitude": 51.3135,
+    "institute_name": "Institute for Research in Fundamental Sciences (IPM)",
+    "country": "Iran, Islamic Republic of",
+    "town": "Tehran"
+  },
+  "ISFAHAN-IUT": {
+    "latitude": 32.7217,
+    "longitude": 51.5294,
+    "institute_name": "Isfahan University of Technology",
+    "country": "Iran, Islamic Republic of",
+    "town": "Isfahan"
+  },
+  "ISLAMABAD-NCP": {
+    "latitude": 33.6532,
+    "longitude": 73.1579,
+    "institute_name": "National Centre for Physics, Quaid-I-Azam University",
+    "country": "Pakistan",
+    "town": "Islamabad"
+  },
+  "ISTANBUL-TECH": {
+    "latitude": 41.1033,
+    "longitude": 29.025,
+    "institute_name": "Istanbul Technical University",
+    "country": "Turkey",
+    "town": "Istanbul"
+  },
+  "ISTANBUL-UNIV": {
+    "latitude": 41.0138,
+    "longitude": 28.9647,
+    "institute_name": "Istanbul University",
+    "country": "Turkey",
+    "town": "Istanbul"
+  },
+  "JOHNS-HOPKINS": {
+    "latitude": 39.3299,
+    "longitude": -76.6205,
+    "institute_name": "Johns Hopkins University",
+    "country": "United States",
+    "town": "Baltimore"
+  },
+  "KANSAS-STATE": {
+    "latitude": 39.1917,
+    "longitude": -96.5847,
+    "institute_name": "Kansas State University",
+    "country": "United States",
+    "town": "Manhattan"
+  },
+  "KANSAS-UNIV": {
+    "latitude": 38.9583,
+    "longitude": -95.2478,
+    "institute_name": "The University of Kansas",
+    "country": "United States",
+    "town": "Lawrence"
+  },
+  "KARLSRUHE-IEKP": {
+    "latitude": 49.0112,
+    "longitude": 8.4169,
+    "institute_name": "Institut f\u00fcr Experimentelle Teilchenphysik",
+    "country": "Germany",
+    "town": "Karlsruhe"
+  },
+  "KHARKOV-ISMA": {
+    "latitude": 50.0152,
+    "longitude": 36.2504,
+    "institute_name": "Institute for Scintillation Materials of National Academy of Science of Ukraine",
+    "country": "Ukraine",
+    "town": "Kharkiv"
+  },
+  "KHARKOV-KIPT": {
+    "latitude": 50.0197,
+    "longitude": 36.2527,
+    "institute_name": "National Science Centre, Kharkiv Institute of Physics and Technology",
+    "country": "Ukraine",
+    "town": "Kharkiv"
+  },
+  "KHARKOV-KSU": {
+    "latitude": 50.0047,
+    "longitude": 36.231,
+    "institute_name": "V. Karazin Kharkiv National University (KNU)",
+    "country": "Ukraine",
+    "town": "Kharkiv"
+  },
+  "KOLKATA-SAHA": {
+    "latitude": 22.6014,
+    "longitude": 88.3875,
+    "institute_name": "Saha Institute of Nuclear Physics, HBNI",
+    "country": "India",
+    "town": "Kolkata"
+  },
+  "KOREA-UNIV": {
+    "latitude": 37.5894,
+    "longitude": 127.033,
+    "institute_name": "Korea University",
+    "country": "Korea, Republic of",
+    "town": "Seoul"
+  },
+  "KRAKOW-AGH": {
+    "latitude": 50.0647,
+    "longitude": 19.923,
+    "institute_name": "AGH University of Krakow",
+    "country": "Poland",
+    "town": "Krakow"
+  },
+  "KUWAIT-AUM": {
+    "latitude": 29.3245,
+    "longitude": 48.0968,
+    "institute_name": "College of Engineering and Technology, American University of the Middle East (AUM)",
+    "country": "Kuwait",
+    "town": "Dasman"
+  },
+  "KUWAIT-UNIV": {
+    "latitude": 29.3267,
+    "longitude": 47.9319,
+    "institute_name": "Kuwait University - College of Science - Department of Physics",
+    "country": "Kuwait",
+    "town": "Safat"
+  },
+  "KYUNGPOOK": {
+    "latitude": 35.8887,
+    "longitude": 128.6103,
+    "institute_name": "Kyungpook National University",
+    "country": "Korea, Republic of",
+    "town": "Daegu"
+  },
+  "LAPPEENRANTA-LUT": {
+    "latitude": 61.0587,
+    "longitude": 28.1887,
+    "institute_name": "Lappeenranta-Lahti University of Technology",
+    "country": "Finland",
+    "town": "Lappeenranta"
+  },
+  "LATVIA-UNIV": {
+    "latitude": 56.9508,
+    "longitude": 24.1164,
+    "institute_name": "University of Latvia (LU)",
+    "country": "Latvia",
+    "town": "Riga"
+  },
+  "LIP": {
+    "latitude": 38.721,
+    "longitude": -9.1487,
+    "institute_name": "Laborat\u00f3rio de Instrumenta\u00e7\u00e3o e F\u00edsica Experimental de Part\u00edculas",
+    "country": "Portugal",
+    "town": "Lisboa"
+  },
+  "LIVERMORE": {
+    "latitude": 37.6819,
+    "longitude": -121.768,
+    "institute_name": "Lawrence Livermore National Laboratory",
+    "country": "United States",
+    "town": "Livermore"
+  },
+  "LONDON-IC": {
+    "latitude": 51.4988,
+    "longitude": -0.1749,
+    "institute_name": "Imperial College",
+    "country": "United Kingdom",
+    "town": "London"
+  },
+  "LOUVAIN": {
+    "latitude": 50.669,
+    "longitude": 4.6144,
+    "institute_name": "Universit\u00e9 Catholique de Louvain",
+    "country": "Belgium",
+    "town": "Louvain-la-Neuve"
+  },
+  "LYON": {
+    "latitude": 45.7473,
+    "longitude": 4.8357,
+    "institute_name": "Institut de Physique des 2 Infinis de Lyon (IP2I )",
+    "country": "France",
+    "town": "Villeurbanne"
+  },
+  "LYON_CC": {
+    "latitude": 45.7473,
+    "longitude": 4.8357,
+    "institute_name": "Centre de Calcul de l'Institut National de Physique Nucleaire et de Physique des Particules, CNRS/IN2P3",
+    "country": "France",
+    "town": "Villeurbanne"
+  },
+  "MADRID-CIEMAT": {
+    "latitude": 40.4553,
+    "longitude": -3.7257,
+    "institute_name": "Centro de Investigaciones Energ\u00e9ticas Medioambientales y Tecnol\u00f3gicas (CIEMAT)",
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "MADRID-UNIV": {
+    "latitude": 40.4512,
+    "longitude": -3.7261,
+    "institute_name": "Universidad Aut\u00f3noma de Madrid",
+    "country": "Spain",
+    "town": "Madrid"
+  },
+  "MALAYA": {
+    "latitude": 3.1279,
+    "longitude": 101.6545,
+    "institute_name": "National Centre for Particle Physics, Universiti Malaya",
+    "country": "Malaysia",
+    "town": "Kuala Lumpur"
+  },
+  "MARYLAND": {
+    "latitude": 38.9869,
+    "longitude": -76.9426,
+    "institute_name": "University of Maryland",
+    "country": "United States",
+    "town": "College Park"
+  },
+  "MATARA": {
+    "latitude": 5.9485,
+    "longitude": 80.5353,
+    "institute_name": "University of Ruhuna, Department of Physics",
+    "country": "Sri Lanka",
+    "town": "Matara"
+  },
+  "MEXICO-CINVESTAV": {
+    "latitude": 19.5098,
+    "longitude": -99.1315,
+    "institute_name": "Centro de Investigacion y de Estudios Avanzados del IPN",
+    "country": "Mexico",
+    "town": "Mexico City"
+  },
+  "MEXICO-IBEROAM": {
+    "latitude": 19.3306,
+    "longitude": -99.2118,
+    "institute_name": "Universidad Iberoamericana",
+    "country": "Mexico",
+    "town": "Mexico City"
+  },
+  "MEXICO-PUEBLA": {
+    "latitude": 19.0414,
+    "longitude": -98.2063,
+    "institute_name": "Benemerita Universidad Autonoma de Puebla",
+    "country": "Mexico",
+    "town": "Puebla"
+  },
+  "MEXICO-UASLP": {
+    "latitude": 22.1501,
+    "longitude": -100.9751,
+    "institute_name": "Universidad Aut\u00f3noma de San Luis Potos\u00ed",
+    "country": "Mexico",
+    "town": "San Luis Potos\u00ed"
+  },
+  "MILANO-BICOCCA": {
+    "latitude": 45.5189,
+    "longitude": 9.2123,
+    "institute_name": "INFN Sezione di Milano-Bicocca (a); Universit\u00e0 di Milano-Bicocca (b)",
+    "country": "Italy",
+    "town": "Milano"
+  },
+  "MINNESOTA": {
+    "latitude": 44.9737,
+    "longitude": -93.2349,
+    "institute_name": "University of Minnesota",
+    "country": "United States",
+    "town": "Minneapolis"
+  },
+  "MISSISSIPPI": {
+    "latitude": 34.3647,
+    "longitude": -89.5384,
+    "institute_name": "University of Mississippi",
+    "country": "United States",
+    "town": "Oxford"
+  },
+  "MIT": {
+    "latitude": 42.3601,
+    "longitude": -71.0942,
+    "institute_name": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "town": "Cambridge"
+  },
+  "MOHALI-IISER": {
+    "latitude": 30.664,
+    "longitude": 76.723,
+    "institute_name": "Indian lnstitute of Science Education and Research Mohali",
+    "country": "India",
+    "town": "Mohali"
+  },
+  "NANJING-NNU": {
+    "latitude": 32.1116,
+    "longitude": 118.9591,
+    "institute_name": "Nanjing Normal University",
+    "country": "China",
+    "town": "Nanjing"
+  },
+  "NAPOLI": {
+    "latitude": 40.837,
+    "longitude": 14.1833,
+    "institute_name": "INFN Sezione di Napoli (a); Universit\u00e0 di Napoli 'Federico II' (b); Universit\u00e0 della Basilicata (Potenza) (c); Scuola Superiore Meridionale (SSM) (d)",
+    "country": "Italy",
+    "town": "Napoli"
+  },
+  "NEBRASKA": {
+    "latitude": 40.8202,
+    "longitude": -96.7005,
+    "institute_name": "University of Nebraska-Lincoln",
+    "country": "United States",
+    "town": "Lincoln"
+  },
+  "NICOSIA-UNIV": {
+    "latitude": 35.1456,
+    "longitude": 33.4112,
+    "institute_name": "University of Cyprus",
+    "country": "Cyprus",
+    "town": "Nicosia"
+  },
+  "NISER": {
+    "latitude": 20.296,
+    "longitude": 85.675,
+    "institute_name": "National Institute of Science Education and Research",
+    "country": "India",
+    "town": "Odisha"
+  },
+  "NORTHEASTERN": {
+    "latitude": 42.3398,
+    "longitude": -71.0892,
+    "institute_name": "Northeastern University",
+    "country": "United States",
+    "town": "Boston"
+  },
+  "NORTHWESTERN": {
+    "latitude": 42.0514,
+    "longitude": -87.6753,
+    "institute_name": "Northwestern University",
+    "country": "United States",
+    "town": "Evanston"
+  },
+  "NOTRE_DAME": {
+    "latitude": 41.7031,
+    "longitude": -86.239,
+    "institute_name": "University of Notre Dame",
+    "country": "United States",
+    "town": "Notre Dame"
+  },
+  "OHIO-STATE": {
+    "latitude": 40.0039,
+    "longitude": -83.0145,
+    "institute_name": "The Ohio State University",
+    "country": "United States",
+    "town": "Columbus"
+  },
+  "OVIEDO": {
+    "latitude": 43.3614,
+    "longitude": -5.8494,
+    "institute_name": "Universidad de Oviedo, Instituto Universitario de Ciencias y Tecnolog\u00edas Espaciales de Asturias (ICTEA)",
+    "country": "Spain",
+    "town": "Oviedo"
+  },
+  "PADOVA": {
+    "latitude": 45.4011,
+    "longitude": 11.8857,
+    "institute_name": "INFN Sezione di Padova (a); Universit\u00e0 di Padova (b); Universita degli Studi di Cagliari (c)",
+    "country": "Italy",
+    "town": "Padova"
+  },
+  "PAVIA": {
+    "latitude": 45.1867,
+    "longitude": 9.1519,
+    "institute_name": "INFN Sezione di Pavia (a); Universit\u00e0 di Pavia (b)",
+    "country": "Italy",
+    "town": "Pavia"
+  },
+  "PEKING-UNIV": {
+    "latitude": 39.9917,
+    "longitude": 116.3045,
+    "institute_name": "State Key Laboratory of Nuclear Physics and Technology, Peking University",
+    "country": "China",
+    "town": "Beijing"
+  },
+  "PERUGIA": {
+    "latitude": 43.1121,
+    "longitude": 12.3888,
+    "institute_name": "INFN Sezione di Perugia (a); Universit\u00e0 di Perugia (b)",
+    "country": "Italy",
+    "town": "Perugia"
+  },
+  "PISA": {
+    "latitude": 43.7204,
+    "longitude": 10.3986,
+    "institute_name": "INFN Sezione di Pisa (a); Universit\u00e0 di Pisa (b); Scuola Normale Superiore di Pisa (c); Universit\u00e0 di Siena (d)",
+    "country": "Italy",
+    "town": "Pisa"
+  },
+  "PODGORICA-UCG": {
+    "latitude": 42.4437,
+    "longitude": 19.244,
+    "institute_name": "University of Montenegro",
+    "country": "Montenegro",
+    "town": "Podgorica"
+  },
+  "POLYTECHNIQUE": {
+    "latitude": 48.7132,
+    "longitude": 2.2087,
+    "institute_name": "Laboratoire Leprince-Ringuet, Ecole Polytechnique, CNRS/IN2P3, Universit\u00e9 Paris-Saclay",
+    "country": "France",
+    "town": "Palaiseau"
+  },
+  "PRINCETON": {
+    "latitude": 40.343,
+    "longitude": -74.6514,
+    "institute_name": "Princeton University",
+    "country": "United States",
+    "town": "Princeton"
+  },
+  "PSI": {
+    "latitude": 47.5404,
+    "longitude": 8.2296,
+    "institute_name": "PSI Center for Neutron and Muon Sciences",
+    "country": "Switzerland",
+    "town": "Villigen"
+  },
+  "PUERTO_RICO": {
+    "latitude": 18.4023,
+    "longitude": -67.1541,
+    "institute_name": "University of Puerto Rico",
+    "country": "United States",
+    "town": "Mayaguez"
+  },
+  "PUNE-IISER": {
+    "latitude": 18.5412,
+    "longitude": 73.8084,
+    "institute_name": "Indian Institute of Science Education and Research (IISER)",
+    "country": "India",
+    "town": "Pune"
+  },
+  "PURDUE": {
+    "latitude": 40.424,
+    "longitude": -86.929,
+    "institute_name": "Purdue University",
+    "country": "United States",
+    "town": "West Lafayette"
+  },
+  "PURDUE-NORTHWEST": {
+    "latitude": 41.5834,
+    "longitude": -87.475,
+    "institute_name": "Purdue University Northwest",
+    "country": "United States",
+    "town": "Hammond"
+  },
+  "QUITO-EPN": {
+    "latitude": -0.2105,
+    "longitude": -78.4891,
+    "institute_name": "Escuela Politecnica Nacional",
+    "country": "Ecuador",
+    "town": "Quito"
+  },
+  "QUITO-USFQ": {
+    "latitude": -0.1968,
+    "longitude": -78.4362,
+    "institute_name": "Universidad San Francisco de Quito",
+    "country": "Ecuador",
+    "town": "Quito"
+  },
+  "RAL": {
+    "latitude": 51.5734,
+    "longitude": -1.3154,
+    "institute_name": "Rutherford Appleton Laboratory",
+    "country": "United Kingdom",
+    "town": "Didcot"
+  },
+  "RICE": {
+    "latitude": 29.7174,
+    "longitude": -95.4018,
+    "institute_name": "Rice University",
+    "country": "United States",
+    "town": "Houston"
+  },
+  "RIGA-RTU": {
+    "latitude": 56.9475,
+    "longitude": 24.1048,
+    "institute_name": "Riga Technical University",
+    "country": "Latvia",
+    "town": "Riga"
+  },
+  "RIO-CBPF": {
+    "latitude": -22.8943,
+    "longitude": -43.1717,
+    "institute_name": "Centro Brasileiro de Pesquisas Fisicas",
+    "country": "Brazil",
+    "town": "Rio de Janeiro"
+  },
+  "RIO-UERJ": {
+    "latitude": -22.911,
+    "longitude": -43.2362,
+    "institute_name": "Universidade do Estado do Rio de Janeiro",
+    "country": "Brazil",
+    "town": "Rio de Janeiro"
+  },
+  "ROCHESTER": {
+    "latitude": 43.1284,
+    "longitude": -77.6281,
+    "institute_name": "University of Rochester",
+    "country": "United States",
+    "town": "Rochester"
+  },
+  "ROMA-1": {
+    "latitude": 41.9032,
+    "longitude": 12.5156,
+    "institute_name": "INFN Sezione di Roma (a); Sapienza Universit\u00e0 di Roma (b)",
+    "country": "Italy",
+    "town": "Roma"
+  },
+  "RUTGERS": {
+    "latitude": 40.5226,
+    "longitude": -74.4602,
+    "institute_name": "Rutgers, The State University of New Jersey",
+    "country": "United States",
+    "town": "Piscataway"
+  },
+  "SACLAY": {
+    "latitude": 48.7317,
+    "longitude": 2.1496,
+    "institute_name": "IRFU, CEA, Universit\u00e9 Paris-Saclay",
+    "country": "France",
+    "town": "Gif-sur-Yvette"
+  },
+  "SANTANDER": {
+    "latitude": 43.471,
+    "longitude": -3.7994,
+    "institute_name": "Instituto de F\u00edsica de Cantabria (IFCA), CSIC-Universidad de Cantabria",
+    "country": "Spain",
+    "town": "Santander"
+  },
+  "SAO_PAULO": {
+    "latitude": -23.5614,
+    "longitude": -46.7308,
+    "institute_name": "Universidade Estadual Paulista (a), Universidade Federal do ABC (b)",
+    "country": "Brazil",
+    "town": "S\u00e3o Paulo"
+  },
+  "SEOUL-HANYANG": {
+    "latitude": 37.5572,
+    "longitude": 127.045,
+    "institute_name": "Hanyang University",
+    "country": "Korea, Republic of",
+    "town": "Seoul"
+  },
+  "SEOUL-KYUNGHEE": {
+    "latitude": 37.5965,
+    "longitude": 127.0525,
+    "institute_name": "Kyung Hee University, Department of Physics",
+    "country": "Korea, Republic of",
+    "town": "Seoul"
+  },
+  "SEOUL-SEJONG": {
+    "latitude": 37.5578,
+    "longitude": 127.0739,
+    "institute_name": "Sejong University",
+    "country": "Korea, Republic of",
+    "town": "Seoul"
+  },
+  "SEOUL-SNU": {
+    "latitude": 37.4599,
+    "longitude": 126.9519,
+    "institute_name": "Seoul National University",
+    "country": "Korea, Republic of",
+    "town": "Seoul"
+  },
+  "SEOUL-UNIV": {
+    "latitude": 37.5796,
+    "longitude": 127.0393,
+    "institute_name": "University of Seoul",
+    "country": "Korea, Republic of",
+    "town": "Seoul"
+  },
+  "SHANDONG-UNIV": {
+    "latitude": 36.6869,
+    "longitude": 117.1358,
+    "institute_name": "Institute of Frontier and Interdisciplinary Science, Shandong University",
+    "country": "China",
+    "town": "Qingdao"
+  },
+  "SHANGHAI-FU": {
+    "latitude": 31.297,
+    "longitude": 121.4448,
+    "institute_name": "Institute of Modern Physics and Key Laboratory of Nuclear Physics and Ion-beam Application (MOE) - Fudan University",
+    "country": "China",
+    "town": "Shanghai"
+  },
+  "SKK-UNIV": {
+    "latitude": 37.2955,
+    "longitude": 126.9751,
+    "institute_name": "Sungkyunkwan University",
+    "country": "Korea, Republic of",
+    "town": "Suwon"
+  },
+  "SOFIA-INRNE": {
+    "latitude": 42.6839,
+    "longitude": 23.3447,
+    "institute_name": "Institute for Nuclear Research and Nuclear Energy, Bulgarian Academy of Sciences",
+    "country": "Bulgaria",
+    "town": "Sofia"
+  },
+  "SOFIA-UNIV": {
+    "latitude": 42.6937,
+    "longitude": 23.3351,
+    "institute_name": "University of Sofia",
+    "country": "Bulgaria",
+    "town": "Sofia"
+  },
+  "SONORA-UNISON": {
+    "latitude": 29.0821,
+    "longitude": -110.964,
+    "institute_name": "University of Sonora (UNISON)",
+    "country": "Mexico",
+    "town": "Hermosillo"
+  },
+  "SPLIT-FESB": {
+    "latitude": 43.512,
+    "longitude": 16.4689,
+    "institute_name": "University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture",
+    "country": "Croatia",
+    "town": "Split"
+  },
+  "SPLIT-UNIV": {
+    "latitude": 43.5112,
+    "longitude": 16.47,
+    "institute_name": "University of Split, Faculty of Science",
+    "country": "Croatia",
+    "town": "Split"
+  },
+  "ST-PAUL-BU": {
+    "latitude": 44.9894,
+    "longitude": -93.1866,
+    "institute_name": "Bethel University",
+    "country": "United States",
+    "town": "St. Paul"
+  },
+  "STRASBOURG": {
+    "latitude": 48.5839,
+    "longitude": 7.7455,
+    "institute_name": "Institut Pluridisciplinaire Hubert Curien (IPHC), Universit\u00e9 de Strasbourg, CNRS/IN2P3",
+    "country": "France",
+    "town": "Strasbourg"
+  },
+  "SUNY-BUFFALO": {
+    "latitude": 43.0012,
+    "longitude": -78.787,
+    "institute_name": "State University of New York at Buffalo",
+    "country": "United States",
+    "town": "Buffalo"
+  },
+  "TAIPEI-NTU": {
+    "latitude": 25.0213,
+    "longitude": 121.5355,
+    "institute_name": "National Taiwan University (NTU)",
+    "country": "Taiwan, Province of China",
+    "town": "Taipei"
+  },
+  "TALLINN": {
+    "latitude": 59.3954,
+    "longitude": 24.6719,
+    "institute_name": "National Institute of Chemical Physics and Biophysics",
+    "country": "Estonia",
+    "town": "Tallinn"
+  },
+  "TARAPACA-UTA": {
+    "latitude": -18.4783,
+    "longitude": -70.3126,
+    "institute_name": "Instituto de Alta Investigaci\u00f3n, Universidad de Tarapac\u00e1",
+    "country": "Chile",
+    "town": "Arica"
+  },
+  "TASHKENT": {
+    "latitude": 41.3412,
+    "longitude": 69.203,
+    "institute_name": "Institute of Nuclear Physics of the Uzbekistan Academy of Sciences",
+    "country": "Uzbekistan",
+    "town": "Tashkent"
+  },
+  "TBILISI-GTU": {
+    "latitude": 41.7187,
+    "longitude": 44.7788,
+    "institute_name": "Georgian Technical University",
+    "country": "Georgia",
+    "town": "Tbilisi"
+  },
+  "TBILISI-TSU": {
+    "latitude": 41.7094,
+    "longitude": 44.7739,
+    "institute_name": "Tbilisi State University",
+    "country": "Georgia",
+    "town": "Tbilisi"
+  },
+  "TENNESSEE": {
+    "latitude": 35.9544,
+    "longitude": -83.925,
+    "institute_name": "University of Tennessee",
+    "country": "United States",
+    "town": "Knoxville"
+  },
+  "TEXAS-TAMU": {
+    "latitude": 30.6103,
+    "longitude": -96.3493,
+    "institute_name": "Texas A&M University",
+    "country": "United States",
+    "town": "College Station"
+  },
+  "TEXAS-TECH": {
+    "latitude": 33.5843,
+    "longitude": -101.8783,
+    "institute_name": "Texas Tech University",
+    "country": "United States",
+    "town": "Lubbock"
+  },
+  "TIFR-A": {
+    "latitude": 18.9071,
+    "longitude": 72.8103,
+    "institute_name": "Tata Institute of Fundamental Research-A",
+    "country": "India",
+    "town": "Mumbai"
+  },
+  "TIFR-B": {
+    "latitude": 18.9071,
+    "longitude": 72.8103,
+    "institute_name": "Tata Institute of Fundamental Research-B",
+    "country": "India",
+    "town": "Mumbai"
+  },
+  "TORINO": {
+    "latitude": 45.0697,
+    "longitude": 7.6852,
+    "institute_name": "INFN Sezione di Torino (a); Universit\u00e0 di Torino (b); Universit\u00e0 del Piemonte Orientale (Novara) (c)",
+    "country": "Italy",
+    "town": "Torino"
+  },
+  "TRIESTE": {
+    "latitude": 45.6574,
+    "longitude": 13.8398,
+    "institute_name": "INFN Sezione di Trieste (a); Universit\u00e0 di Trieste (b)",
+    "country": "Italy",
+    "town": "Trieste"
+  },
+  "UCDAVIS": {
+    "latitude": 38.5362,
+    "longitude": -121.7617,
+    "institute_name": "University of California, Davis",
+    "country": "United States",
+    "town": "Davis"
+  },
+  "UCLA": {
+    "latitude": 34.0689,
+    "longitude": -118.4452,
+    "institute_name": "University of California",
+    "country": "United States",
+    "town": "Los Angeles"
+  },
+  "UCRIVERSIDE": {
+    "latitude": 33.9757,
+    "longitude": -117.3311,
+    "institute_name": "University of California, Riverside",
+    "country": "United States",
+    "town": "Riverside"
+  },
+  "UCSB": {
+    "latitude": 34.414,
+    "longitude": -119.8489,
+    "institute_name": "University of California, Santa Barbara - Department of Physics",
+    "country": "United States",
+    "town": "Santa Barbara"
+  },
+  "UCSD": {
+    "latitude": 32.8801,
+    "longitude": -117.234,
+    "institute_name": "University of California, San Diego",
+    "country": "United States",
+    "town": "La Jolla"
+  },
+  "UNIANDES": {
+    "latitude": 4.6017,
+    "longitude": -74.066,
+    "institute_name": "Universidad de Los Andes",
+    "country": "Colombia",
+    "town": "Bogota"
+  },
+  "VALPARAISO-USM": {
+    "latitude": -33.0383,
+    "longitude": -71.6433,
+    "institute_name": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "country": "Chile",
+    "town": "Valparaiso"
+  },
+  "VANDERBILT": {
+    "latitude": 36.1447,
+    "longitude": -86.8027,
+    "institute_name": "Vanderbilt University",
+    "country": "United States",
+    "town": "Nashville"
+  },
+  "VILNIUS-ACADEMY": {
+    "latitude": 54.6827,
+    "longitude": 25.2876,
+    "institute_name": "Lithuanian Academy of Sciences",
+    "country": "Lithuania",
+    "town": "Vilnius"
+  },
+  "VILNIUS-UNIV": {
+    "latitude": 54.6824,
+    "longitude": 25.2749,
+    "institute_name": "Vilnius University",
+    "country": "Lithuania",
+    "town": "Vilnius"
+  },
+  "VINS": {
+    "latitude": 44.8568,
+    "longitude": 20.379,
+    "institute_name": "Vinca Institute of Nuclear Science",
+    "country": "Serbia",
+    "town": "Belgrade"
+  },
+  "VIRGINIA-UNIV": {
+    "latitude": 38.0336,
+    "longitude": -78.508,
+    "institute_name": "University of Virginia",
+    "country": "United States",
+    "town": "Charlottesville"
+  },
+  "WARSAW-IEP": {
+    "latitude": 52.2485,
+    "longitude": 21.0118,
+    "institute_name": "Institute of Experimental Physics, Faculty of Physics, University of Warsaw",
+    "country": "Poland",
+    "town": "Warsaw"
+  },
+  "WARSAW-INS": {
+    "latitude": 52.1497,
+    "longitude": 21.5669,
+    "institute_name": "National Centre for Nuclear Research",
+    "country": "Poland",
+    "town": "Swierk"
+  },
+  "WARSAW-WUT": {
+    "latitude": 52.2205,
+    "longitude": 21.0107,
+    "institute_name": "Warsaw University of Technology",
+    "country": "Poland",
+    "town": "Warsaw"
+  },
+  "WASHINGTON-CUA": {
+    "latitude": 38.9368,
+    "longitude": -76.999,
+    "institute_name": "The Catholic University of America",
+    "country": "United States",
+    "town": "Washington"
+  },
+  "WAYNE": {
+    "latitude": 42.3567,
+    "longitude": -83.068,
+    "institute_name": "Wayne State University",
+    "country": "United States",
+    "town": "Detroit"
+  },
+  "WISCONSIN": {
+    "latitude": 43.0753,
+    "longitude": -89.4114,
+    "institute_name": "University of Wisconsin - Madison",
+    "country": "United States",
+    "town": "Madison"
+  },
+  "YEREVAN": {
+    "latitude": 40.1804,
+    "longitude": 44.5048,
+    "institute_name": "Yerevan Physics Institute",
+    "country": "Armenia",
+    "town": "Yerevan"
+  },
+  "YILDIZ": {
+    "latitude": 41.027,
+    "longitude": 29.0137,
+    "institute_name": "Yildiz Technical University",
+    "country": "Turkey",
+    "town": "Istanbul"
+  },
+  "YONSEI-UNIV": {
+    "latitude": 37.5658,
+    "longitude": 126.9751,
+    "institute_name": "Yonsei University, Department of Physics",
+    "country": "Korea, Republic of",
+    "town": "Seoul"
+  },
+  "ZAGREB-RUDJER": {
+    "latitude": 45.834,
+    "longitude": 16.0007,
+    "institute_name": "Institute Rudjer Boskovic",
+    "country": "Croatia",
+    "town": "Zagreb"
+  },
+  "ZHEJIANG-UNIV": {
+    "latitude": 30.2641,
+    "longitude": 120.1231,
+    "institute_name": "Zhejiang University - Department of Physics",
+    "country": "China",
+    "town": "Zhejiang"
+  },
+  "ZURICH-ETH": {
+    "latitude": 47.3764,
+    "longitude": 8.5484,
+    "institute_name": "ETH Zurich - Institute for Particle Physics and Astrophysics (IPA)",
+    "country": "Switzerland",
+    "town": "Zurich"
+  },
+  "ZURICH-UNIV": {
+    "latitude": 47.3746,
+    "longitude": 8.5511,
+    "institute_name": "Universit\u00e4t Z\u00fcrich",
+    "country": "Switzerland",
+    "town": "Zurich"
+  }
+}
