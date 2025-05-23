@@ -1,10 +1,6 @@
 # CMS Members Geodata
 
-This repository provides geospatial data and tools to visualize the geographic distribution of CMS collaboration members. It imports institutional locations and maps them interactively using OpenStreetMap.
-
-## Overview
-
-The project collects latitude and longitude coordinates of CMS member institutes worldwide and generates interactive maps to display their global distribution. These maps help analyze CMS collaboration's geographical reach and institutional diversity.
+This repository provides geospatial data and tools to visualize the geographic distribution of CMS collaboration members. It imports institutional locations and maps them interactively using OpenStreetMap. The latitude and longitude for each institute are generated using GrokAI.
 
 ## 🔧 Prerequisites
 
@@ -32,7 +28,7 @@ The interactive maps use the following base layers:
 
 - **CMS Members Data**  
 People: [iCMS: People](https://icms.cern.ch/tools/collaboration/people)  
-Institutes: [iCMS: Institutes](https://icms.cern.ch/tools/collaboration/institutes)
+Institutes: [iCMS: Institutes](https://icms.cern.ch/tools/collaboration/institutes)  
 Data extracted on 22/05/2025
 
 ## 📊 Features
