@@ -23,8 +23,8 @@ This project is built using Jupyter Notebooks and the following Python libraries
 
 - **Basemap Sources**
 The interactive maps use the following base layers:
--- **CartoDB Voyager** : Tiles from [CartoDB Voyager](https://carto.com/attributions) with attribution to OpenStreetMap contributors and CartoDB.
--- **OpenStreetMap** : Tiles provided by [OpenStreetMap](https://www.openstreetmap.org) contributors.
+   - **CartoDB Voyager** : Tiles from [CartoDB Voyager](https://carto.com/attributions) with attribution to OpenStreetMap contributors and CartoDB.
+   - **OpenStreetMap** : Tiles provided by [OpenStreetMap](https://www.openstreetmap.org) contributors.
 
 - **CMS Members Data**  
 People: [iCMS: People](https://icms.cern.ch/tools/collaboration/people)  
@@ -41,29 +41,30 @@ Data extracted on 22/05/2025
 ## 📈 Summary of Visualizations
 
 ### Bar plots
+
+*Figure 1: Bar plots showing the number of CMS institutes and collaborators per country.*
 ![Bar Plot](plots/barplot.png)  
-*Bar plots showing the number of CMS institutes and collaborators per country.*
 
 ### Pie Charts
+*Figure 2: Pie charts detailing the composition of authors within CMS collaborators by activity at CERN (left) and affiliated country (right).*
 ![Piechart Authors](plots/piechart_authors.png)  
-*Pie charts detailing the composition of authors within CMS collaborators by activity at CERN (left) and affiliated country (right).*
 
+*Figure 3: Pie charts comparing the fraction of CMS collaborators by activity at CERN who are authors (left) and non-authors (right).*
 ![Piechart Authors vs Nonauthors](plots/piechart_authors-vs-nonauthors.png)  
-*Pie charts comparing the fraction of CMS collaborators by activity at CERN who are authors (left) and non-authors (right).*
 
 ### Bubble Maps
+*Figure 4: A bubble map showing CMS collaborators (authors) worldwide, with bubble sizes proportional to the number of people per location.*
 ![Bubble Map People](plots/bubblemap_people.png)  
-*A bubble map showing CMS collaborators (authors) worldwide, with bubble sizes proportional to the number of people per location.*
 
+*Figure 5: A bubble map showing CMS-affiliated institutes worldwide, with bubble sizes proportional to the number of institutes per location.*
 ![Bubble Map Institutes](plots/bubblemap_institutes.png)  
-*A bubble map showing CMS-affiliated institutes worldwide, with bubble sizes proportional to the number of institutes per location.*
 
 ### Heat Maps
+*Figure 6: A heatmap illustrating the geographic density of CMS collaborators (authors).*
 ![Heatmap People](plots/heatmap_people.png)  
-*A heatmap illustrating the geographic density of CMS collaborators (authors).*
 
+*Figure 7: A heatmap illustrating the geographic density of CMS institutes.*
 ![Heatmap Institutes](plots/heatmap_institutes.png)  
-**A heatmap illustrating the geographic density of CMS institutes.*
 
 ## 📥Interactive map
 
